@@ -1,4 +1,4 @@
-# TESTDATA 10 1
+# TESTDATA 10
 
 ## Introduction
 
@@ -16,11 +16,11 @@ Target Audience placeholder
 ## Registration Period
 
 - Registration Start Date: 2025-09-02
-- Registration End Date: 2025-09-10
+- Registration End Date: 2025-09-08
 ## Study Duration
 
-- Study Start Date: 2025-09-11
-- Study End Date: 2025-09-18
+- Study Start Date: 2025-09-09
+- Study End Date: 2025-09-16
 ## Initiator
 
 - Name: Muxin
