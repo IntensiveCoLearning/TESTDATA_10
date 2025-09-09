@@ -33,7 +33,9 @@ Target Audience placeholder
 
   [ETHPanda](https://ethpanda.org/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/10aed40b-4786-4c2b-aaaa-b7d8a119c00e.png" />
 
+## Leave Rules
 
+Allowed 2 days leave per week.
 
 ## Community
 
