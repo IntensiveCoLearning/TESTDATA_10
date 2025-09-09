@@ -23,6 +23,11 @@ test slkdfjsldkf
 -   test 2
     
 
+| 1 | 2 | 3 |
+| --- | --- | --- |
+|   |   |   |
+|   |   |   |
+
 ![WX20250822-221145@2x.png](https://raw.githubusercontent.com/IntensiveCoLearning/TESTDATA_10/main/assets/muxin-web3/images/2025-09-09-1757408000972-WX20250822-221145_2x.png)
 <!-- DAILY_CHECKIN_2025-09-09_END -->
 <!-- Content_END -->
