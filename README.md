@@ -70,11 +70,12 @@ more information
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
 <!-- START_COMMIT_TABLE -->
-| Name | 9.09 | 9.10 | 9.11 | 9.12 | 9.13 | 9.14 | 9.15 | 9.16 |
-| ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/TESTDATA_10/blob/main/SIGNUP_AUTOMATION.md) |   | | | | | | | |
-| [muxin-web3](https://github.com/IntensiveCoLearning/TESTDATA_10/blob/main/muxin-web3.md) | ✅ | | | | | | | |
+| Name | 9.05 | 9.06 | 9.07 | 9.08 |
+| ------------- | ---- | ---- | ---- | ---- |
+| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/TESTDATA_10/blob/main/SIGNUP_AUTOMATION.md) | ⭕️ | ⭕️ | ❌ | |
+| [muxin-web3](https://github.com/IntensiveCoLearning/TESTDATA_10/blob/main/muxin-web3.md) | ⭕️ | ⭕️ | ❌ | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
@@ -88,11 +89,11 @@ more information
 <!-- STATISTICALDATA_START -->
 ## Statistics
 
-- Total Participants: 0
+- Total Participants: 2
 - Completed Participants: 0
 - Completed Users: 
 - Perfect Attendance Users: 
-- Failed Participants: 0
-- Failed Rate: 0.00%
+- Failed Participants: 2
+- Failed Rate: 100.00%
 - Fork Count: 0
 <!-- STATISTICALDATA_END -->
