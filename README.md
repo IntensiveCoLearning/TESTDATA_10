@@ -3,10 +3,11 @@
 ## Introduction
 
 Introduction placeholder
+- test
 
 ## Keywords
 
-Keywords placeholder
+Keywords placeholder, test
 
 ## Target Audience
 
@@ -28,18 +29,15 @@ Target Audience placeholder
 - Email: muxin333333@gmail.com
 ## Organizations
 
+  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
 
+  [ETHPanda](https://ethpanda.org/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/10aed40b-4786-4c2b-aaaa-b7d8a119c00e.png" />
 
-
-
-## Leave Rules
-
-Allowed 2 days leave per week.
 
 
 ## Community
 
-Telegram：
+Telegram：@LXDAO
 
 ## Learning Materials/Course Schedule
 
@@ -49,13 +47,15 @@ testsssssss
 
 ## Study Rewards
 
-The greatest reward is gaining knowledge!
+The greatest reward is gaining knowledge!!!!!!!!!
 
 
 
 ## Additional Information
 
 more information
+- 1
+- 2
 
 
 
