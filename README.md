@@ -107,7 +107,7 @@ more information
 
 ## 请假规则
 
-每周请假 2 次
+每周请假 3 次
 
 
 ## 报名时间
@@ -124,7 +124,6 @@ more information
 - GitHub ID：muxin-web3
 - Telegram：muxin_eth
 - Email：muxin333333@gmail.com
-
 ## 发起人
 
 - 姓名：Muxin
