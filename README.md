@@ -73,8 +73,9 @@ more information
 | Name | 9.09 | 9.10 | 9.11 | 9.12 | 9.13 | 9.14 | 9.15 | 9.16 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/TESTDATA_10/blob/main/SIGNUP_AUTOMATION.md) |   | | | | | | | |
-| [muxin-web3](https://github.com/IntensiveCoLearning/TESTDATA_10/blob/main/muxin-web3.md) |   | | | | | | | |
+| [muxin-web3](https://github.com/IntensiveCoLearning/TESTDATA_10/blob/main/muxin-web3.md) | ✅ | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
