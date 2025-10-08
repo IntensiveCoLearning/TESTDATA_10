@@ -3,55 +3,54 @@
 ## Introduction
 
 Introduction placeholder
-
 ## Keywords
 
 Keywords placeholder
-
 ## Target Audience
 
 Target Audience placeholder
-
 ## Registration Period
 
 - Registration Start Date: 2025-10-08
 - Registration End Date: 2025-10-11
-
 ## Study Duration
 
 - Study Start Date: 2025-10-12
 - Study End Date: 2025-10-21
-
 ## Initiator
 
 - Name: Muxin
 - GitHub ID: muxin-web3
 - Telegram: muxin_eth
 - Email: muxin333333@gmail.com
-
 ## Organizations
 
-The organizing entities of the Intensive Co-learning. There can be multiple. 
+
+
 
 ## Leave Rules
 
 Allowed 2 days leave per week.
 
+
 ## Community
 
 Telegram：
+## Learning Materials/Course Schedule
 
-## Learning Materials / Course Schedule
+kkk
 
-Learning materials content
 
 ## Study Rewards
 
 The greatest reward is gaining knowledge!
 
+
 ## Additional Information
 
 more information
+
+
 
 ## Registration and Check-In Rules
 
